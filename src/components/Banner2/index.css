@@ -25,29 +25,3 @@
 	width: 580px;
 	padding-bottom: 114px;
 }
-
-.banner2-movies-list {
-	display: flex;
-	margin-left: 60px;
-	overflow: hidden;
-}
-
-.banner2-movie {
-	background-image: url(../../images/bg-coldwar.png);
-	height: 255px;
-	width: 420px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-right: 15px;
-}
-
-.banner2-circle {
-	width: 97px;
-	height: 97px;
-	background-color: rgba(20, 20, 20, 0.32);
-	border-radius: 50%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}

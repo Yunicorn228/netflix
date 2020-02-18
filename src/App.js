@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Banner from './components/Banner';
 import MovieLists from './components/MovieList';
 import Banner2 from './components/Banner2';
+import MovieLists2 from './components/MovieList2';
 
 function App() {
 	return (
@@ -13,6 +14,7 @@ function App() {
 			<Banner />
 			<MovieLists />
 			<Banner2 />
+			<MovieLists2 />
 		</React.Fragment>
 	);
 }

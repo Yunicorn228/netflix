@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './index.css';
 import Title from '../../images/banner2-title.svg';
 import Name from '../../images/Polonais.svg';
-import Triangle from '../../images/Triangle 1.svg';
 
 class index extends Component {
 	render() {

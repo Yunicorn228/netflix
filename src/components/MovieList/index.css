@@ -1,0 +1,27 @@
+.movies {
+	display: flex;
+}
+
+.movies img {
+	margin-right: 5px;
+	height: 124px;
+	width: 204px;
+}
+
+.movie-list {
+	padding-bottom: 55px;
+	position: relative;
+	bottom: 30px;
+}
+
+.movie-lists {
+	color: #fff;
+	background-color: black;
+	padding-left: 60px;
+}
+
+.collection {
+	font-size: 20px;
+	line-height: 23px;
+	margin-bottom: 10px;
+}

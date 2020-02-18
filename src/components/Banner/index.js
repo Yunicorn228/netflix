@@ -14,7 +14,7 @@ class index extends Component {
 					<div className='movie-name'>
 						<img src={MovieName} alt='' />
 					</div>
-					<div className='season'>Regardez la saison 3 maintenant</div>
+					<div className='season'>Regardez la saison 30 maintenant</div>
 					<div className='discrip'>
 						Le cartel de Cali reprend le pouvoir en Colombie. Les successeurs
 						d’Escobar passent à l’action et déclarent la guerre au gouvernement.

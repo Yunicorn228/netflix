@@ -1,0 +1,53 @@
+.banner2 {
+	color: #ffffff;
+	background-size: cover;
+	background-image: url(../../images/banner2.png);
+}
+
+.banner2-title {
+	margin-bottom: 34px;
+}
+
+.banner2-movie-name {
+	margin-bottom: 26px;
+}
+
+.banner2-release {
+	font-size: 26px;
+	margin-bottom: 7px;
+}
+
+.banner2-discrip {
+	font-size: 20px;
+}
+
+.banner2 .content {
+	width: 580px;
+	padding-bottom: 114px;
+}
+
+.banner2-movies-list {
+	display: flex;
+	margin-left: 60px;
+	overflow: hidden;
+}
+
+.banner2-movie {
+	background-image: url(../../images/bg-coldwar.png);
+	height: 255px;
+	width: 420px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 15px;
+}
+
+.banner2-circle {
+	width: 97px;
+	height: 97px;
+	background-color: rgba(20, 20, 20, 0.32);
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

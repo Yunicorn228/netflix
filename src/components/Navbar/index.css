@@ -1,0 +1,45 @@
+.nav-container {
+	padding: 18px 60px;
+	background-color: #000;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	align-items: center;
+}
+
+.flex-start {
+	display: flex;
+}
+
+.flex-start .logo {
+	margin-right: 37px;
+}
+
+.flex-start ul {
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	align-items: center;
+}
+
+.flex-start ul li {
+	list-style: none;
+	font-size: 16px;
+	line-height: 19px;
+	margin: 0px 8px;
+}
+
+.flex-end {
+	display: flex;
+}
+
+.flex-end i {
+	margin: 0px 8px;
+}
+
+.flex-end .user-name {
+	margin: 0px 8px;
+}

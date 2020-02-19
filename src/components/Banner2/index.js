@@ -7,20 +7,22 @@ class index extends Component {
 	render() {
 		return (
 			<div className='banner2'>
-				<div className='content'>
-					<div className='banner2-title'>
-						<img src={Title} alt='' />
-					</div>
-					<div className='banner2-movie-name'>
-						<img src={Name} alt='' />
-					</div>
-					<div className='banner2-release'>
-						Netflix Découverte - Juillet 2018
-					</div>
-					<div className='banner2-discrip'>
-						Andrzej Wajda, Roman Polański, Agnieszka Holland, Paweł Pawlikowski…
-						Découvrez ceux qui ont fait connaitre le cinéma polonais sur la
-						scène internationale.
+				<div className='liner-div'>
+					<div className='content'>
+						<div className='banner2-title'>
+							<img src={Title} alt='' />
+						</div>
+						<div className='banner2-movie-name'>
+							<img src={Name} alt='' />
+						</div>
+						<div className='banner2-release'>
+							Netflix Découverte - Juillet 2018
+						</div>
+						<div className='banner2-discrip'>
+							Andrzej Wajda, Roman Polański, Agnieszka Holland, Paweł
+							Pawlikowski… Découvrez ceux qui ont fait connaitre le cinéma
+							polonais sur la scène internationale.
+						</div>
 					</div>
 				</div>
 			</div>

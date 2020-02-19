@@ -12,6 +12,7 @@
 	padding-bottom: 55px;
 	position: relative;
 	bottom: 30px;
+	overflow: hidden;
 }
 
 .movie-lists {

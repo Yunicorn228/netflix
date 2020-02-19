@@ -1,0 +1,28 @@
+.list3 {
+	margin-left: 60px;
+	margin-bottom: 55px;
+}
+
+.list3-title {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.list3-title i {
+	margin-left: 10px;
+}
+
+.list3-movies {
+	display: flex;
+}
+
+.list3-movie img {
+	height: 432px;
+	width: 217px;
+}
+
+.list3-movie {
+	margin-right: 5px;
+}

@@ -1,0 +1,47 @@
+footer {
+	color: #999;
+	margin-left: 150px;
+	margin-bottom: 60px;
+}
+
+.icon-list i {
+	font-size: 25px;
+	margin-right: 25px;
+}
+
+.icon-list {
+	margin-bottom: 22px;
+}
+
+.links {
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.column {
+	display: flex;
+	flex-direction: column;
+	margin-right: 125px;
+}
+
+.links a {
+	text-decoration: none;
+	color: #999;
+	margin-bottom: 15px;
+	display: inline-block;
+	font-size: 14px;
+}
+
+footer button {
+	margin-bottom: 20px;
+	padding: 8px 6px;
+	background-color: #000;
+	font-size: 13px;
+	color: #999;
+	border: 1px solid #999;
+}
+
+.copy-right {
+	font-size: 14px;
+	color: #999;
+}

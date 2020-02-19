@@ -1,0 +1,55 @@
+.categories {
+	margin-left: 60px;
+	margin-bottom: 125px;
+}
+
+.cat-list {
+	display: flex;
+}
+
+.cat-box {
+	color: #fff;
+	width: 204px;
+	height: 124px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: burlywood;
+	margin-right: 5px;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.cat-box i {
+	position: relative;
+	top: 20px;
+}
+
+.red {
+	background-color: red;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.green {
+	background-color: green;
+}
+
+.light-green {
+	background-color: aquamarine;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.purple {
+	background-color: purple;
+}

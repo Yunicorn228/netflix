@@ -10,28 +10,46 @@ export default class index extends Component {
 				<div className='movie-list'>
 					<div className='collection'>Revoir</div>
 					<div className='movies'>
-						<div className='movie'>
-							<img src={Movie} alt='' />
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+								<div className='phone-dis'>짐 제프리</div>
+							</div>
 						</div>
-						<div className='movie'>
-							<img src={Movie2} alt='' />
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
 						</div>
-						<div className='movie'>
-							<img src={Movie} alt='' />
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
 						</div>
-						<div className='movie'>
-							<img src={Movie2} alt='' />
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
 						</div>
-						<div className='movie'>
-							<img src={Movie} alt='' />
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
 						</div>
-						<div className='movie'>
-							<img src={Movie2} alt='' />
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
 						</div>
 					</div>
 				</div>
 
-				<div className='movie-list'>
+				<div className='movie-list list2'>
 					<div className='collection'>Tendances actuelles</div>
 					<div className='movies'>
 						<div className='movies'>

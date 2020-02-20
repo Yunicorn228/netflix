@@ -42,4 +42,47 @@ nav {
 
 .flex-end .user-name {
 	margin: 0px 8px;
+	padding-bottom: 10px;
+}
+
+.nav-dropdown {
+	display: none;
+	position: absolute;
+	padding: 5px;
+	right: 100px;
+	top: 50px;
+}
+
+.active {
+	display: block;
+}
+
+@media only screen and (max-width: 1100px) {
+	.flex-end {
+		display: none;
+	}
+
+	.nav-container ul {
+		display: none;
+	}
+
+	.flex-start .logo {
+		margin-right: 0px;
+	}
+
+	nav {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.phone-tv {
+		position: absolute;
+		right: 25px;
+	}
+
+	.nav-container {
+		padding: 0px;
+		margin: 27px 0px;
+	}
 }

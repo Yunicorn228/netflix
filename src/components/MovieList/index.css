@@ -1,5 +1,6 @@
 .movies {
 	display: flex;
+	overflow-y: scroll;
 }
 
 .movies img {
@@ -12,7 +13,6 @@
 	padding-bottom: 55px;
 	position: relative;
 	bottom: 30px;
-	overflow: hidden;
 }
 
 .movie-lists {
@@ -25,6 +25,10 @@
 	font-size: 20px;
 	line-height: 23px;
 	margin-bottom: 10px;
+}
+
+.phone-dis {
+	display: none;
 }
 @media only screen and (max-width: 1100px) {
 	.movie-list {

@@ -5,6 +5,7 @@
 	position: relative;
 	bottom: 60px;
 	margin-bottom: 50px;
+	overflow-x: scroll;
 }
 
 .movies-container {

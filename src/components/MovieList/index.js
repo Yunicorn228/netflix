@@ -46,6 +46,42 @@ export default class index extends Component {
 								<div className='phone-dis'>미스터선샤인</div>
 							</div>
 						</div>
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
+						</div>
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
+						</div>
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
+						</div>
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
+						</div>
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
+						</div>
+						<div className='inner-layer'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+								<div className='phone-dis'>미스터선샤인</div>
+							</div>
+						</div>
 					</div>
 				</div>
 
@@ -53,6 +89,30 @@ export default class index extends Component {
 					<div className='collection'>Tendances actuelles</div>
 					<div className='movies'>
 						<div className='movies'>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie2} alt='' />
+							</div>
+							<div className='movie'>
+								<img src={Movie} alt='' />
+							</div>
 							<div className='movie'>
 								<img src={Movie2} alt='' />
 							</div>
